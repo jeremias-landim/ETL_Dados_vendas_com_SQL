@@ -1,2 +1,3 @@
 # projeto-sql-vendas
-mini projeto de ETL com SQL
+Mini projeto de ETL com SQL para criaçao banco de dados com dados comercial para equipe de vendas
+
