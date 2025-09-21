@@ -11,3 +11,6 @@ Este projeto foi desenvolvido como prática de SQL, simulando uma carga de dados
 
 ## Tecnologias
 - SQL Server
+=======
+# projeto-sql-vendas
+Mini projeto de ETL com SQL para criaçao banco de dados com dados comercial para equipe de vendas
